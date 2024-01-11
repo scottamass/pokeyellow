@@ -8,7 +8,7 @@ TrainerPicAndMoneyPointers::
 	; pic pointer, base reward money
 	; money received after battle = base money × level of last enemy mon
 	pic_money YoungsterPic,    1500
-	pic_money BugCatcherPic,   1000
+	pic_money BugCatcherPic,   9000
 	pic_money LassPic,         1500
 	pic_money SailorPic,       3000
 	pic_money JrTrainerMPic,   2000
