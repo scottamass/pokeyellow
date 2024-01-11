@@ -1720,7 +1720,7 @@ MissingNo92EvosMoves:
 
 HaunterEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 37, GENGAR
+	db EVOLVE_ITEM,TRADE_STONE, 1, GENGAR
 	db 0
 ; Learnset
 	db 29, HYPNOSIS
