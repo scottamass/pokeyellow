@@ -100,7 +100,6 @@ ItemUsePtrTable:
 	dw ItemUsePPRestore  ; MAX_ETHER
 	dw ItemUsePPRestore  ; ELIXER
 	dw ItemUsePPRestore  ; MAX_ELIXER
-	dw ItemUseEvoStone	 ; TRADE_STONE
 
 ItemUseBall:
 

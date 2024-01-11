@@ -9,7 +9,7 @@ PokemonMansionB1FWildMons:
 	db 24, DITTO
 	db 46, RATICATE
 	db 18, DITTO
-	db 40, MAGMAR
+	db 12, DITTO
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

@@ -9,7 +9,7 @@ ViridianForestWildMons:
 	db  6, CATERPIE
 	db  6, METAPOD
 	db  8, PIDGEY
-	db  9, SCYTHER
+	db  9, PIDGEOTTO
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

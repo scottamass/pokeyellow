@@ -83,5 +83,4 @@ KeyItemFlags:
 	dbit FALSE ; MAX_ETHER
 	dbit FALSE ; ELIXER
 	dbit FALSE ; MAX_ELIXER
-	dbit FALSE ; TRADE_STONE
 	end_bit_array NUM_ITEMS
