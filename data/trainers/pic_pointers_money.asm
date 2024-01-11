@@ -7,12 +7,12 @@ TrainerPicAndMoneyPointers::
 	table_width 5, TrainerPicAndMoneyPointers
 	; pic pointer, base reward money
 	; money received after battle = base money × level of last enemy mon
-	pic_money YoungsterPic,    1500
-	pic_money BugCatcherPic,   9000
-	pic_money LassPic,         1500
-	pic_money SailorPic,       3000
-	pic_money JrTrainerMPic,   2000
-	pic_money JrTrainerFPic,   2000
+	pic_money YoungsterPic,    3000
+	pic_money BugCatcherPic,   3000
+	pic_money LassPic,         3000
+	pic_money SailorPic,       5000
+	pic_money JrTrainerMPic,   5000
+	pic_money JrTrainerFPic,   5000
 	pic_money PokemaniacPic,   5000
 	pic_money SuperNerdPic,    2500
 	pic_money HikerPic,        3500
@@ -21,7 +21,7 @@ TrainerPicAndMoneyPointers::
 	pic_money EngineerPic,     5000
 	pic_money JugglerPic,      3500
 	pic_money FisherPic,       3500
-	pic_money SwimmerPic,       500
+	pic_money SwimmerPic,      1500
 	pic_money CueBallPic,      2500
 	pic_money GamblerPic,      7000
 	pic_money BeautyPic,       7000
