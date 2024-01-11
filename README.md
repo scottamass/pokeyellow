@@ -28,4 +28,4 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 
 # pokemon yellow ultimate 
 - added all staters to route 1 
-- trade evos no happen at level 37 
+- trade evos no happen with a trade stone 
