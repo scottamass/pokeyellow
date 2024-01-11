@@ -31,3 +31,17 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 - trade evos no happen with a trade stone 
 - updated celedon mart with trade stone and competitive items including rarecandy
 - updated prize money
+
+## todo
+- balance trainers and gym leaders 
+- add in oaks battle 
+- make all pokemon obtanible 
+    - pikachu
+    - richu 
+    - meowth
+    - mew
+- make safari pokemon catchable outside on safari zone
+    - scyther
+    - chancey 
+    - kangaskhan 
+    - tourous  
