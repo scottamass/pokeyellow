@@ -34,12 +34,12 @@ ItemPrices::
 	bcd3 2100  ; FIRE_STONE
 	bcd3 2100  ; THUNDER_STONE
 	bcd3 2100  ; WATER_STONE
-	bcd3 9800  ; HP_UP
-	bcd3 9800  ; PROTEIN
-	bcd3 9800  ; IRON
-	bcd3 9800  ; CARBOS
-	bcd3 9800  ; CALCIUM
-	bcd3 4800  ; RARE_CANDY
+	bcd3 800   ; HP_UP
+	bcd3 800   ; PROTEIN
+	bcd3 800   ; IRON
+	bcd3 800   ; CARBOS
+	bcd3 800   ; CALCIUM
+	bcd3 1000  ; RARE_CANDY
 	bcd3 0     ; DOME_FOSSIL
 	bcd3 0     ; HELIX_FOSSIL
 	bcd3 0     ; SECRET_KEY
