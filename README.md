@@ -25,3 +25,6 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 [symbols]: https://github.com/pret/pokeyellow/tree/symbols
 [ci]: https://github.com/pret/pokeyellow/actions
 [ci-badge]: https://github.com/pret/pokeyellow/actions/workflows/main.yml/badge.svg
+
+# pokemon yellow ultimate 
+- added all staters to route 1 
