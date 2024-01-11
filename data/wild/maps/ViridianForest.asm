@@ -5,7 +5,7 @@ ViridianForestWildMons:
 	db  4, CATERPIE
 	db  5, CATERPIE
 	db  4, PIDGEY
-	db  6, PIDGEY
+	db  6, PIDGEY	
 	db  6, CATERPIE
 	db  6, METAPOD
 	db  8, PIDGEY

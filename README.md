@@ -30,3 +30,5 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 - added all staters to route 1 
 - trade evos how happen with TRADE STONE
 - level 9 scyther added to v forrect
+- scyther now flies
+- KABUTO and OMANYTE added to seafoam island B4
