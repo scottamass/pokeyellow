@@ -8,7 +8,7 @@ Route1WildMons:
 	db  5, SQUIRTLE
 	db  5, BULBASAUR
 	db  4, RATTATA
-	db  6, PIDGEY
+	db  6, SPEAROW
 	db  7, PIDGEY
 	end_grass_wildmons
 

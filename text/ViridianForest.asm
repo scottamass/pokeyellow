@@ -43,7 +43,8 @@ _ViridianForestYoungster3AfterBattleText::
 
 _ViridianForestYoungster4BattleText::
 	text "Hey, wait up!"
-	line "What's the hurry?"
+	line "Look at my" 
+	cont "awsome pokemon?"
 	done
 
 _ViridianForestYoungster4EndBattleText::

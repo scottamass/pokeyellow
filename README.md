@@ -31,6 +31,7 @@ For other pret projects, see [pret.github.io](https://pret.github.io/).
 - trade evos no happen with a trade stone 
 - updated celedon mart with trade stone and competitive items including rarecandy
 - updated prize money
+- there is a suprise in the last trainer in varidian forrest
 
 ## todo
 - balance trainers and gym leaders 
